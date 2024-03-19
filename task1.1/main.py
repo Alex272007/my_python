@@ -1,4 +1,4 @@
-n = int(input())
+n = int(input("Введите число: "))
 
 
 one = n % 10
